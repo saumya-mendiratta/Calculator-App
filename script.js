@@ -36,7 +36,7 @@ for (var i = 0; i < buttons.length; i++) {
             display.textContent = operand1
         } else if (value == "=") {
             operand2 = parseFloat(text);
-            var result = eval(operand1 + ' ' + operator + ' ' + operand2);
+            var result = (eval(operand1 + ' ' + operator + ' ' + operand2)).toFixed(2);
             if (result) {
                 display.textContent = result;
                 operand1 = result;
