@@ -4,5 +4,6 @@
 -> Interactivity of the calculator was achieved using DOM. <br><br>
 
 
-![Screenshot (123)](https://user-images.githubusercontent.com/67758484/105652436-3bdd2a00-5edf-11eb-9686-115919baf54a.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/67758484/109430469-9b22e280-7a27-11eb-90a7-bb359130121f.png)
+
 
